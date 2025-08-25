@@ -1,0 +1,14 @@
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\bin\Debug\net8.0\PracticeCsharp.exe
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\bin\Debug\net8.0\PracticeCsharp.deps.json
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\bin\Debug\net8.0\PracticeCsharp.runtimeconfig.json
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\bin\Debug\net8.0\PracticeCsharp.dll
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\bin\Debug\net8.0\PracticeCsharp.pdb
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\PracticeCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\PracticeCsharp.AssemblyInfoInputs.cache
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\PracticeCsharp.AssemblyInfo.cs
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\PracticeCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\PracticeCsharp.dll
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\refint\PracticeCsharp.dll
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\PracticeCsharp.pdb
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\PracticeCsharp.genruntimeconfig.cache
+C:\Users\Manha\Desktop\C# Programming\PracticeCsharp\PracticeCsharp\obj\Debug\net8.0\ref\PracticeCsharp.dll
