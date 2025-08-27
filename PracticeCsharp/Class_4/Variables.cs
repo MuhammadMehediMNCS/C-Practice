@@ -1,7 +1,7 @@
 ﻿// Variable হলো ডেটা রাখার বাক্স। আমরা ভ্যারিয়েবলে নাম দিয়ে ডেটা রাখতে পারি
 using System;
 
-class Program
+class SomeVariables
 {
     static void Main(string[] args)
     {

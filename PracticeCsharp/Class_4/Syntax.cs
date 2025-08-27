@@ -1,7 +1,7 @@
 ﻿// Syntax মানে হলো প্রোগ্রাম লেখার নিয়ম বা কাঠামো
 using System;
 
-class Program
+class SyntaxRules
 {
     static void Main(string[] args)
     {
@@ -10,7 +10,7 @@ class Program
 }
 
 /*
-ব্যাখ্যা:
+ব্যাখ্যা :
 using System; → এখানে আমরা System লাইব্রেরি ব্যবহার করছি (Console ব্যবহারের জন্য দরকার)
 
 class Program { ... } → সি# প্রোগ্রাম সবসময় ক্লাসের ভেতরে থাকে।
